@@ -7,7 +7,6 @@ const Header = () => {
         <header className={classes.header}>
             <nav>
                 <ul>
-                    
                     <li>
                         <NavLink activeClassName={classes.active} to='/create'>Create Table</NavLink>
                     </li>
